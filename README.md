@@ -8,6 +8,11 @@ Newton Gravity Discovery Game is an **interactive web experience** that playfull
 ### How to Play 🎮
 Click on **Apple** or **Rock** to make them fall on **Newton** and let the consequences happens...
 
+#### Play Game Here👇
+```bash
+https://newton-game.netlify.app/
+```
+
 The game features beautiful visuals, dynamic animations, and a fun, educational twist—perfect for students, science enthusiasts, or anyone who loves creative browser games.
 
 > If you find this game **funny** please give it a start 🌟
