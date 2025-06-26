@@ -1,73 +1,66 @@
-# Newton-Gravity-Discovery-Game
+# Newton Gravity Discovery Game
 Newton Gravity Discovery Game
 
-# Getting Started with Create React App
+> POV: You got the power to remove the Gravity 😱 from Syllabus
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Newton Gravity Discovery Game is an **interactive web experience** that playfully recreate the legendary moment of Newton's gravity discovery. As a students we have to learn _Gravity and Motions Law_ stuffs in your syllabus which is annoying sometime. So I create this short game for fun and visalualization.
 
-## Available Scripts
+### How to Play 🎮
+Click on **Apple** or **Rock** to make them fall on **Newton** and let the consequences happens...
 
-In the project directory, you can run:
+The game features beautiful visuals, dynamic animations, and a fun, educational twist—perfect for students, science enthusiasts, or anyone who loves creative browser games.
 
-### `npm start`
+> If you find this game **funny** please give it a start 🌟
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### About this game development
+This is a simple react app with containing a single `newton-app\src\NewtonAppleGame.jsx` file beside base setup code and also some images and music. That's it a simple react app.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You can run it in your onw `local device` and make some changes as you want and come back and PR it
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to setup and run it locally
 
-### `npm run build`
+## How to Set Up and Run This Game Locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Follow these steps to clone, set up, and play the Newton Gravity Discovery Game on your computer:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 1. Prerequisites
+- **Node.js** and **npm** must be installed. [Download Node.js here](https://nodejs.org/)
+- **Git** must be installed. [Download Git here](https://git-scm.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 2. Clone the Repository
+Open a terminal or command prompt and run:
+```sh
+git clone https://github.com/Adya-Prasad/Newton-Gravity-Discovery-Game.git
+```
 
-### `npm run eject`
+### 3. Navigate to the Project Directory
+```sh
+cd Newton-Gravity-Discovery-Game/newton-app
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 4. Install Dependencies
+```sh
+npm install
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 5. Start the Development Server
+```sh
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- This will open the game in your browser at [http://localhost:3000](http://localhost:3000)
+- If it doesn't open automatically, visit the link manually.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 6. Play the Game 🤟
+- Click on apples or the rock to interact with Newton and control the world!
 
-## Learn More
+### 7. Update the Game if you Want
+Improve the code, add some more feature and interaction and make PR to this base repository.
+
+## Learn about React here:
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
