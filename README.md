@@ -10,7 +10,7 @@ Click on **Apple** or **Rock** to make them fall on **Newton** and let the conse
 
 #### Play Game Here👇
 ```bash
-https://newton-game.netlify.app/
+start https://newton-game.netlify.app/
 ```
 
 The game features beautiful visuals, dynamic animations, and a fun, educational twist—perfect for students, science enthusiasts, or anyone who loves creative browser games.
