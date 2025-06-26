@@ -19,8 +19,6 @@ You can run it in your onw `local device` and make some changes as you want and 
 
 ---
 
-## How to setup and run it locally
-
 ## How to Set Up and Run This Game Locally
 
 Follow these steps to clone, set up, and play the Newton Gravity Discovery Game on your computer:
